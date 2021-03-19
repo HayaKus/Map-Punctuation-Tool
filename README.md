@@ -18,7 +18,6 @@
     - [4. the parameters of cloud tasks 云任务的参数](#4-the-parameters-of-cloud-tasks-云任务的参数)
     - [5. the parameters of users 用户的参数](#5-the-parameters-of-users-用户的参数)
     - [6. other components 其他组件](#6-other-components-其他组件)
-- [Result 结果说明](#result-结果说明)
 - [Maintainers 维护者](#maintainers-维护者)
 - [Contributing 如何贡献](#contributing-如何贡献)
     - [Contributors 贡献者](#contributors-贡献者)
@@ -30,7 +29,7 @@
 
 注意：第一行必须分别是longitude（经度）和latitude（维度）。
 
-
+<div align=center><img src="https://github.com/HayaKus/Map-Punctuation-Tool/blob/main/graphs/step1.png" width="80%"/></div>
 
 
 

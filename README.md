@@ -27,25 +27,23 @@
 
 步骤2：打开index.html
 
-<div align=center><img src="https://github.com/HayaKus/Map-Punctuation-Tool/blob/main/graphs/step2.png" width="50%"/></div>
+<div align=center><img src="https://github.com/HayaKus/Map-Punctuation-Tool/blob/main/graphs/step2.png" width="80%"/></div>
 
 步骤3：将右边的滚动条拖到最下面就能看到文件载入的入口了。数据载入之后可以再把滚动条拖上去，这样整个页面会好看一点。
 
 注意：想要把整个页面往下拖只能通过右边的滚动条。鼠标的滚轮是用来放大或缩小地图的。
 
-<div align=center><img src="https://github.com/HayaKus/Map-Punctuation-Tool/blob/main/graphs/step3-1.png" width="50%"/></div>
+<div align=center><img src="https://github.com/HayaKus/Map-Punctuation-Tool/blob/main/graphs/step3-1.png" width="100%"/></div>
 
-<div align=center><img src="https://github.com/HayaKus/Map-Punctuation-Tool/blob/main/graphs/step3-2.png" width="50%"/></div>
+<div align=center><img src="https://github.com/HayaKus/Map-Punctuation-Tool/blob/main/graphs/step3-2.png" width="100%"/></div>
 
 步骤4：在显示结果之前，网页会弹出第一条读取到的数据。这是用来测试排版是否正确的。
 
-<div align=center><img src="https://github.com/HayaKus/Map-Punctuation-Tool/blob/main/graphs/step4.png" width="50%"/></div>
+<div align=center><img src="https://github.com/HayaKus/Map-Punctuation-Tool/blob/main/graphs/step4.png" width="100%"/></div>
 
 步骤5：之后所有坐标就会以红点的形式显示在地图上。可以通过鼠标的滚轮使地图放大或缩小，点击坐标也可以显示具体的坐标点。
 
-<div align=center><img src="https://github.com/HayaKus/Map-Punctuation-Tool/blob/main/graphs/step5.png" width="50%"/></div>
-
-<div align=center><img src="https://github.com/HayaKus/CloudSimSEC/blob/master/graphs/result/CloudSimSEC%E6%AF%8F%E5%8F%B0%E4%B8%BB%E6%9C%BA%E6%B7%B7%E5%90%88%E5%AF%B9%E6%AF%94.jpg" width="80%"/></div>
+<div align=center><img src="https://github.com/HayaKus/Map-Punctuation-Tool/blob/main/graphs/step5.png" width="100%"/></div>
 
 ## Maintainers 维护者
 

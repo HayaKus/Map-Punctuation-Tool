@@ -6,10 +6,7 @@
 
 # 正在修改readme，请稍等
 
-The document is explained in both English and Chinese, and the bold part is a Chinese translation.  
-**该文件同时使用英文和中文进行说明，其中加粗部分为中文翻译。**
 
-If you found it helpful to you, please give me a star and recommend it to your friends around you.(●'◡'●)  
 **如果您觉得软件对您有所帮助，点一下右上角的star并推荐给周围的朋友就是对我极大的支持。(●'◡'●)**
 
 ## Table of Contents 内容列表
@@ -27,54 +24,15 @@ If you found it helpful to you, please give me a star and recommend it to your f
     - [Contributors 贡献者](#contributors-贡献者)
 - [License 使用许可](#license-使用许可)
 
+## 使用说明
 
-## Background 背景
+步骤1：首先将execl文件处理成以下格式，并另存为“.xlsx”格式。
 
-There are more and more traffic demands of cloud data centers in recent years, leading to the continuous establishment and expansion of cloud data centers around the world. Although their economic utility is increasing, huge energy consumption has also received more and more attention. The problem of energy consumption in cloud data centers has changed from past distribution to present centralization, because cloud computing can achieve the flexibility and scalability of computing resources (such as networks, storage, applications, and services). In order to optimize the energy consumption of the cloud data center, it is necessary to establish an energy consumption simulator for the cloud data center.  
-**近年来，云数据中心面临着越来越多的流量需求，导致世界各地的云数据中心不断地组建和扩张。虽然其经济效用日益增加，但巨大的能耗也受到了越来越多的关注。由于云计算可以实现计算资源（例如网络，存储，应用和服务）的灵活性和可扩展性，因此云数据中心能耗问题从过去的分散方式变为现在以集中方式凸显。为了对云数据中心的能耗使用情况进行优化，针对云数据中心建立一个能耗模拟器是十分必要的。**
+注意：第一行必须分别是longitude（经度）和latitude（维度）。
 
-Original CloudSim goal is to provide a generalized and extensible simulation framework that enables modeling, simulation, and experimentation of emerging Cloud computing infrastructures and application services, allowing its users to focus on specific system design issues that they want to investigate, without getting concerned about the low level details related to Cloud-based infrastructures and services.  
-**原版CloudSim的目标是提供一个通用且可扩展的仿真框架，该框架能够对新兴的云计算基础架构和应用程序服务进行建模、仿真和实验，从而使其用户能够专注于他们想调查的特定系统设计问题，而不必担心基于云的基础架构和服务相关的底层问题。**
 
-Original CloudSim is developed in [the Cloud Computing and Distributed Systems (CLOUDS) Laboratory](http://cloudbus.org/), at [the Computer Science and Software Engineering Department](http://www.csse.unimelb.edu.au/) of [the University of Melbourne](http://www.unimelb.edu.au/).  
-**原版CloudSim由[墨尔本大学](http://www.unimelb.edu.au/)的[计算机科学与软件工程系](http://www.csse.unimelb.edu.au/)的[开发云计算与分布式系统（云）实验室](http://cloudbus.org/)开发。**
 
-More information can be found on the [CloudSim's web site](http://cloudbus.org/cloudsim/).  
-**您可以在[CloudSim的官方网站](http://cloudbus.org/cloudsim/)上查找到更多信息。**
 
-CloudSimSEC is an extension of Cloudsim specifically designed to simulate the energy consumption of cloud data centers. There are main features of CloudSimSEC, i.e.,  
-**CloudSimSEC是一款专门用于模拟云数据中心能耗Cloudsim的延伸作品。CloudSimSEC的主要特点为：**
-
-- support for simulating energy consumption of cloud data centers via RBF neural network
-- **能够通过RBF神经网络模拟云数据中心的能耗**
-- support for simulating different energy consumptions of cloud data centers by replacing different models
-- **能够通过替换不同的模型来模拟不同云数据中心的能耗**
-- support for freely configurating the hardware and tasks in cloud data centers
-- **能够自由配置云数据中心中的硬件和任务**
-- support for simulating energy consumption via user-friendly graphical user interface (GUI)
-- **能够通过对用户友好的图形化用户界面（GUI）来进行能耗模拟**
-- support for changing the independent variable interfaces of various models of energy consumption, which can be used to increase or decrease the input variables of models of energy consumption
-- **支持更改各种能耗模型的自变量接口，可用于增加或减少能耗模型的输入变量**
-
-## Download/Install 下载/安装
-
-Download install pack (539MB): [CloudSimSEC__setup.exe](https://twocups.cn/download/CloudSimSEC__setup.exe) (Note: This is the installation package of the branch 'master'.)  
-**下载安装包（539MB）：[CloudSimSEC__setup.exe](https://twocups.cn/download/CloudSimSEC__setup.exe)**（务必注意：这是主分支的安装包）
-
-Note: Do not install this software in the "C://", otherwise there will be a problem that the user does not have permission to open this software.  
-**注意：不要把这个软件安装在C盘，否则会出现用户没有权限打开软件的问题。**  
-
-In addition, there are some environments that must be installed locally, i.e.,  
-**此外，还有以下环境必须被安装：**
-
-- beautyeye_lnf.jar (The file 'beautyeye_lnf.jar' has been placed in the source file.)
-- jdk1.8.0_201 (The file 'jdk1.8.0_201' has been placed in the source file.)
-- MATLAB R2017b (More information can be found on the [MATLAB's web site](https://www.mathworks.com/).)  
-
-Or you can also run directly the source code: The source file does not need to be installed, it can be opened directly with an editor that supports java, such as [IDEA](http://www.jetbrains.com/idea/).  
-**或者您也可以直接运行源代码：源文件不需要被安装，可以使用支持Java的编辑器直接打开它，例如 [IDEA](http://www.jetbrains.com/idea/)。**
-
-## Usage 使用说明
 
 Install pack: After the software is installed, click the 'CloudSimSEC' file on the desktop to open the software.  
 **安装包：安装完成之后，点击桌面的'CloudSimSEC'文件即可打开软件。**

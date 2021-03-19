@@ -4,8 +4,6 @@
 [![](https://img.shields.io/badge/platform-windows-orange)](https://www.microsoft.com/windows/)
 [![](https://img.shields.io/badge/license-MIT-orange)](/LICENSE)
 
-# 正在修改readme，请稍等
-
 
 **如果您觉得软件对您有所帮助，点一下右上角的star并推荐给周围的朋友就是对我极大的支持。(●'◡'●)**
 

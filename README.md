@@ -29,7 +29,7 @@
 
 注意：第一行必须分别是longitude（经度）和latitude（维度）。
 
-<div align=center><img src="https://github.com/HayaKus/Map-Punctuation-Tool/blob/main/graphs/step1.png" width="80%"/></div>
+<div align=center><img src="https://github.com/HayaKus/Map-Punctuation-Tool/blob/main/graphs/step1.png" width="50%"/></div>
 
 
 

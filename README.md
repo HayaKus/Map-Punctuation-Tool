@@ -31,7 +31,7 @@
 
 <div align=center><img src="https://github.com/HayaKus/Map-Punctuation-Tool/blob/main/graphs/step1.png" width="50%"/></div>
 
-
+步骤2：首先将execl文件处理成以下格式，并另存为“.xlsx”格式。
 
 Install pack: After the software is installed, click the 'CloudSimSEC' file on the desktop to open the software.  
 **安装包：安装完成之后，点击桌面的'CloudSimSEC'文件即可打开软件。**

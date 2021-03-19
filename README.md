@@ -4,8 +4,9 @@
 [![](https://img.shields.io/badge/platform-windows-orange)](https://www.microsoft.com/windows/)
 [![](https://img.shields.io/badge/license-MIT-orange)](/LICENSE)
 
-
 **如果您觉得软件对您有所帮助，点一下右上角的star并推荐给周围的朋友就是对我极大的支持。(●'◡'●)**
+
+地图标点工具：一个能将海量经纬度坐标在地图上标出来的小工具，只有12MB，借用了百度的API，以网页的形式呈现。
 
 ## Table of Contents 内容列表
 

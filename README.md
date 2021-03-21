@@ -52,7 +52,7 @@
 
 **Gmail：haya.haowei.lin@gmail.com**
 
-**E-Mail: 296329404@qq.com**  
+**E-Mail: haya.haowei.lin@qq.com**  
 
 
 ## Contributing 如何贡献
